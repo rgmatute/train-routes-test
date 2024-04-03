@@ -17,6 +17,21 @@ El objetivo del ejercicio es aplicar procesos para tomar una lista de rutas dada
 ### ANALISIS INICIAL `AB5,BC4,CD8,DC8,DE6,AD5,CE2,EB3,AE7`
 ![Screenshot 0](http://telematico-tools.azurewebsites.net/cloud/tests/rutas-de-tren/img/grafos-hoja-1.jpeg)
 
+```mermaid
+graph LR
+A -- 5 --> B
+A -- 5 --> D
+A -- 7 --> E
+B -- 4 --> C
+C -- 8 --> D
+C -- 2 --> E
+D -- 8 --> E
+D -- 8 --> C
+E -- 3 --> B
+```
+
+
+
 ## PAGINA UTILIZADA PARA DIBUJAR LAS RUTAS EN GRAFOS
 https://graphonline.ru/es/
 
