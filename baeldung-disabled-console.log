@@ -1,0 +1,36 @@
+2024-04-02 22:21:28,624 INFO [restartedMain] c.r.t.BackTrainsTestApplication [StartupInfoLogger.java:51] Starting BackTrainsTestApplication using Java 17.0.7 with PID 1100 (C:\Users\USER\Documents\eclipse-workspace\back-trains-test\target\classes started by USER in C:\Users\USER\Documents\eclipse-workspace\back-trains-test)
+2024-04-02 22:21:28,628 INFO [restartedMain] c.r.t.BackTrainsTestApplication [SpringApplication.java:638] No active profile set, falling back to 1 default profile: "default"
+2024-04-02 22:21:28,675 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:250] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-02 22:21:28,676 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:250] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-02 22:21:29,356 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2024-04-02 22:21:29,362 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-02 22:21:29,364 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2024-04-02 22:21:29,364 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-02 22:21:29,408 INFO [restartedMain] o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2024-04-02 22:21:29,408 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:291] Root WebApplicationContext: initialization completed in 731 ms
+2024-04-02 22:21:29,658 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:59] LiveReload server is running on port 35729
+2024-04-02 22:21:29,668 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2024-04-02 22:21:29,687 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path ''
+2024-04-02 22:21:29,694 INFO [restartedMain] c.r.t.BackTrainsTestApplication [StartupInfoLogger.java:57] Started BackTrainsTestApplication in 1.398 seconds (process running for 2.031)
+2024-04-02 22:21:32,251 INFO [RMI TCP Connection(7)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [SpringApplicationAdminMXBeanRegistrar.java:159] Application shutdown requested.
+2024-04-02 22:21:32,264 INFO [RMI TCP Connection(7)-127.0.0.1] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Pausing ProtocolHandler ["http-nio-8080"]
+2024-04-02 22:21:32,265 INFO [RMI TCP Connection(7)-127.0.0.1] o.a.c.c.StandardService [DirectJDKLog.java:173] Stopping service [Tomcat]
+2024-04-02 22:21:32,269 INFO [RMI TCP Connection(7)-127.0.0.1] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Stopping ProtocolHandler ["http-nio-8080"]
+2024-04-02 22:28:42,065 INFO [restartedMain] c.r.t.BackTrainsTestApplication [StartupInfoLogger.java:51] Starting BackTrainsTestApplication using Java 17.0.7 with PID 10052 (C:\Users\USER\Documents\eclipse-workspace\back-trains-test\target\classes started by USER in C:\Users\USER\Documents\eclipse-workspace\back-trains-test)
+2024-04-02 22:28:42,069 INFO [restartedMain] c.r.t.BackTrainsTestApplication [SpringApplication.java:638] No active profile set, falling back to 1 default profile: "default"
+2024-04-02 22:28:42,113 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:250] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-02 22:28:42,114 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:250] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-02 22:28:42,918 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2024-04-02 22:28:42,926 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-02 22:28:42,928 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2024-04-02 22:28:42,928 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-02 22:28:42,985 INFO [restartedMain] o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2024-04-02 22:28:42,985 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:291] Root WebApplicationContext: initialization completed in 871 ms
+2024-04-02 22:28:43,285 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:59] LiveReload server is running on port 35729
+2024-04-02 22:28:43,296 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2024-04-02 22:28:43,312 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path ''
+2024-04-02 22:28:43,319 INFO [restartedMain] c.r.t.BackTrainsTestApplication [StartupInfoLogger.java:57] Started BackTrainsTestApplication in 1.679 seconds (process running for 2.296)
+2024-04-02 22:28:45,550 INFO [RMI TCP Connection(7)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [SpringApplicationAdminMXBeanRegistrar.java:159] Application shutdown requested.
+2024-04-02 22:28:45,563 INFO [RMI TCP Connection(7)-127.0.0.1] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Pausing ProtocolHandler ["http-nio-8080"]
+2024-04-02 22:28:45,563 INFO [RMI TCP Connection(7)-127.0.0.1] o.a.c.c.StandardService [DirectJDKLog.java:173] Stopping service [Tomcat]
+2024-04-02 22:28:45,568 INFO [RMI TCP Connection(7)-127.0.0.1] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Stopping ProtocolHandler ["http-nio-8080"]
