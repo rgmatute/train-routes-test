@@ -42,7 +42,7 @@ nodosBase=AB5,BC4,CD8,DC8,DE6,AD5,CE2,EB3,AE7
 Para ejecutar por linea de comando un archivo .jar listo para producción debes
 seguir 3 pasos: `El .jar fue preparado para solamente ejecutarse y finalizar`
 
-- Descargar el fichero `.jar` [Descargar back-trains-test-1.0.0](http://telematico-tools.azurewebsites.net/cloud/tests/rutas-de-tren/back-trains-test-1.0.0.jar)
+- Descargar el fichero `.jar` [Descargar back-trains-test-1.0.0](https://telematico-tools.azurewebsites.net/cloud/tests/rutas-de-tren/back-trains-test-1.0.0.jar)
 - Abrir la consola de su computador
 - Aplicar el siguiente comando en la consola `java -jar back-trains-test-1.0.0.jar`
 
